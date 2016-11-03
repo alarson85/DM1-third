@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	background-color: silver;
+}
+p {
+	padding: 15px 25px;
+	background-color: snow;
+	max-width: 600px; 
+}
+body {
+	width: 60%;
+	margin: 0 auto;
+}
+.bar {	
+	height: 15%;
+	content: "";
+	position: relative;
+}
+.content {
+	width: 100%;
+	height: 25%;
+	background-color: snow;
+	content: "";
+}
+.square {
+	height: 80%;
+	width: 10%;
+	position: absolute;
+	top: 8%;
+	left: 5%;
+}
+.blue {
+	background-color: cornFlowerBlue;
+}
+.turquoise {
+	background-color: turquoise;
+}
+.green {
+	background-color: paleGreen;
+}
+.yellow {
+	background-color: yellow;
+}
